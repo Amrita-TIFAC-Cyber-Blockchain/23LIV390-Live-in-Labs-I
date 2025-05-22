@@ -1,5 +1,9 @@
+<p align="center">
+    <img src="Assets/LiL_Logo.png" alt ="Amrita TIFAC" width="400" />
+</p>
+
 # 23LIV390 - Live-in-Labs®  ![](https://img.shields.io/badge/Live-green)
-![](https://img.shields.io/badge/Batch-25Engg-lightgreen) ![](https://img.shields.io/badge/UG-blue) <br/>
+![](https://img.shields.io/badge/Batch-24Engg-lightgreen) ![](https://img.shields.io/badge/UG-blue) <br/>
 ![](https://img.shields.io/badge/Credits-3-orange) <br/> ![](https://img.shields.io/badge/Students-4-gold) <br/> 
 
 Live-in-Labs® is a multidisciplinary experiential learning program that breaks classroom and lab barriers by applying learned theory in real-world settings.
