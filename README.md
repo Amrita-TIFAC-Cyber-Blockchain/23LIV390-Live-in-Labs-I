@@ -30,11 +30,18 @@ Live-in-Labs® is a multidisciplinary experiential learning program that breaks 
 - Health & Hygiene
 - Waste Management & Infrastructure
 
-### Workshop
+### Team GraMorph Members
 
+|                            Name                            |           Role         |      Dept      |
+|:-----------------------------------------------------------|:----------------------:|:--------------:|
+| [Mr. Garrepalli Varshith](https://github.com/GVR2007)      |        Member          |      CSE       |
+| [Mr. Vignesh V S](https://github.com/Vigneshvs2007)        |        Member          |      ECE       |
+| [Ms. Sivasankari S](https://github.com/sivasankari0109)    |        Member          |      EEE       |
+| [Ms. Mithuraa Senthilkumar](https://github.com/mith-sen)   |        SPOC            |      CSE       |
 
-### Village Visit
-
+### Workshop & Village Visit
+- [Workshop Details]()
+- [Village Visit Details]()
 
 ### Evaluation Criteria
 
