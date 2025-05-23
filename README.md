@@ -4,7 +4,7 @@
 
 # 23LIV390 - Live-in-Labs®  ![](https://img.shields.io/badge/Live-green)
 ![](https://img.shields.io/badge/Batch-24Engg-lightgreen) ![](https://img.shields.io/badge/UG-blue) <br/>
-![](https://img.shields.io/badge/Credits-3-orange) <br/> ![](https://img.shields.io/badge/Students-4-gold) <br/> 
+![](https://img.shields.io/badge/Credits-3-orange) <br/> ![](https://img.shields.io/badge/Students-5-gold) <br/> 
 
 Live-in-Labs® is a multidisciplinary experiential learning program that breaks classroom and lab barriers by applying learned theory in real-world settings.
 
@@ -37,6 +37,7 @@ Live-in-Labs® is a multidisciplinary experiential learning program that breaks 
 | [Mr. Garrepalli Varshith](https://github.com/GVR2007)      |        Member          |      CSE       |
 | [Mr. Vignesh V S](https://github.com/Vigneshvs2007)        |        Member          |      ECE       |
 | [Ms. Sivasankari S](https://github.com/sivasankari0109)    |        Member          |      EEE       |
+| [Mr. Sanjay G](https://github.com/sanhub52)                |        Member          |      MEE       |
 | [Ms. Mithuraa Senthilkumar](https://github.com/mith-sen)   |        SPOC            |      CSE       |
 
 ### Workshop & Village Visit
