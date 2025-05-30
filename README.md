@@ -2,13 +2,13 @@
     <img src="Assets/LiL_Logo.png" alt ="Amrita TIFAC" width="400" />
 </p>
 
-# 23LIV390 - Live-in-Labs®  ![](https://img.shields.io/badge/Live-green)
+# 23LIV390 - Live-in-Labs® I ![](https://img.shields.io/badge/Live-green)
 ![](https://img.shields.io/badge/Batch-24Engg-lightgreen) ![](https://img.shields.io/badge/UG-blue) <br/>
 ![](https://img.shields.io/badge/Credits-3-orange) <br/> ![](https://img.shields.io/badge/Students-5-gold) <br/> 
 
 Live-in-Labs® is a multidisciplinary experiential learning program that breaks classroom and lab barriers by applying learned theory in real-world settings.
 
-#### Course Mentor:  Ramaguru R, Assistant Professor (Senior Grade), TIFAC-CORE in Cyber Security.
+#### Course Mentor: Ramaguru Radhakrishnan, Assistant Professor (Senior Grade), TIFAC-CORE in Cyber Security.
 
 ### :books: Course Outcome
 
@@ -61,5 +61,5 @@ Live-in-Labs® is a multidisciplinary experiential learning program that breaks 
 
 | Course Start | 20 - May - 2025 | Deadline | 
 |--------------|-----------------|:--------:|
-| Workshop     | 20 - May - 2025 to 30 - May - 2025 | | 
-| Village Visit |  02 - Jun - 2025 to 15 - Jun - 2025 | |
+| Workshop     | 20 - May - 2025 to 31 - May - 2025 | | 
+| Village Visit |  03 - Jun - 2025 to 15 - Jun - 2025 | |
