@@ -61,5 +61,5 @@ Live-in-Labs® is a multidisciplinary experiential learning program that breaks 
 
 | Course Start | 20 - May - 2025 | Deadline | 
 |--------------|-----------------|:--------:|
-| Workshop     | 20 - May - 2025 to 31 - May - 2025 | | 
-| Village Visit |  03 - Jun - 2025 to 15 - Jun - 2025 | |
+| Workshop     | 20 - May - 2025 to 31 - May - 2025 |  ![](https://img.shields.io/badge/Completed-darkgreen) | 
+| Village Visit | 03 - Jun - 2025 to 13 - Jun - 2025 |  ![](https://img.shields.io/badge/Completed-darkgreen) |
