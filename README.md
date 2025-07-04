@@ -46,16 +46,16 @@ Live-in-Labs® is a multidisciplinary experiential learning program that breaks 
 
 ### Evaluation Criteria
 
-| Component                                                                | Marks | Category                         |
-|--------------------------------------------------------------------------|-------|----------------------------------|
-| Workshop (Group Participation)                                           | 15    | Internal (Continuous Evaluation) |
-| Village Visit Assignments and Reports                                    | 15    | Internal (Continuous Evaluation) |
-| Problem Identification and Assessment                                    | 15    | Internal (Continuous Evaluation) |
-| Ideation: Defining the Needs, Proposed Designs & Review                  | 20    | Internal (Continuous Evaluation) |
-| Poster Presentation                                                      | 10    | Internal (Continuous Evaluation) |
-| Research Paper Submission                                                | 25    | External                         |
-| Attendance                                                               | 5     | Separate                         |
-| **Grand Total**                                                          | **105**|                                  |
+| Component                                                   |  Marks | Category                         |
+|:------------------------------------------------------------|:------:|:---------------------------------|
+| Workshop (Group Participation)                              | 15     | Internal (Continuous Evaluation) |
+| Village Visit Assignments and Reports                       | 15     | Internal (Continuous Evaluation) |
+| Problem Identification and Assessment                       | 15     | Internal (Continuous Evaluation) |
+| Ideation: Defining the Needs, Proposed Designs & Review     | 20     | Internal (Continuous Evaluation) |
+| Poster Presentation                                         | 10     | Internal (Continuous Evaluation) |
+| Research Paper Submission                                   | 25     | External                         |
+| Attendance                                                  | 5      | Separate                         |
+| **Grand Total**                                             | **105**|                                 |
 
 ### Dates and Deadlines
 
@@ -63,3 +63,12 @@ Live-in-Labs® is a multidisciplinary experiential learning program that breaks 
 |--------------|-----------------|:--------:|
 | Workshop     | 20 - May - 2025 to 31 - May - 2025 |  ![](https://img.shields.io/badge/Completed-darkgreen) | 
 | Village Visit | 03 - Jun - 2025 to 13 - Jun - 2025 |  ![](https://img.shields.io/badge/Completed-darkgreen) |
+| Review of Presentation Slides/Report | 18 - Jun - 2025 to 04 - Jul - 2025 |  ![](https://img.shields.io/badge/Completed-darkgreen) |
+| Mock Presentation | 06 - Jul - 2025 |  |
+| GitHub Updates    | 07 - Jul - 2025 to 15 - Jul - 2025 |  |
+| Paper Writing     | 07 - Jul - 2025 to 15 - Jul - 2025 |  |
+| Solution Formulation | 01 - Aug - 2025 to 30 - Sept - 2025 | | 
+
+### Acknowledgements
+This study was conducted as part of the **Amrita Live-in-Labs® Academic program**. The authors extend their sincere gratitude to the Amrita Live-in-Labs® Academic program for providing all the necessary support. The authors also express their profound gratitude to **Sri Mata Amritanandamayi Devi**, _Chancellor of Amrita Vishwa Vidyapeetham_, whose inspiration has guided the authors in performing selfless service to society. The authors thank the government officials of the  Ramanathapuram District; Amrita Vidyalayam, Ramanathapuram and all the stakeholders of the Thanichiyam Community for their participation and guidance throughout the study.
+
