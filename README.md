@@ -30,15 +30,15 @@ Live-in-Labs® is a multidisciplinary experiential learning program that breaks 
 - Health & Hygiene
 - Waste Management & Infrastructure
 
-### Team GraMorph Members
+### [Team GraMorph](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Team-GraMorph) Members
 
 |                            Name                            |           Role         |      Dept      |
 |:-----------------------------------------------------------|:----------------------:|:--------------:|
 | [Mr. Garrepalli Varshith](https://github.com/GVR2007)      |        Member          |      CSE       |
 | [Mr. Vignesh V S](https://github.com/Vigneshvs2007)        |        Member          |      ECE       |
-| [Ms. Sivasankari S](https://github.com/sivasankari0109)    |        Member          |      EEE       |
-| [Mr. Sanjay G](https://github.com/sanhub52)                |        Member          |      MEE       |
-| [Ms. Mithuraa Senthilkumar](https://github.com/mith-sen)   |        SPOC            |      CSE       |
+| [Ms. Mithuraa Senthilkumar](https://github.com/mith-sen)   |        Member          |      CSE       |
+| [Ms. Sivasankari S](https://github.com/sivasankari0109)    |        SPOC - 2        |      EEE       |
+| [Mr. Sanjay G](https://github.com/sanhub52)                |        SPOC - 1        |      MEE       |
 
 ### Workshop & Village Visit
 - [Workshop Details]()
@@ -63,12 +63,14 @@ Live-in-Labs® is a multidisciplinary experiential learning program that breaks 
 |--------------|-----------------|:--------:|
 | Workshop     | 20 - May - 2025 to 31 - May - 2025 |  ![](https://img.shields.io/badge/Completed-darkgreen) | 
 | Village Visit | 03 - Jun - 2025 to 13 - Jun - 2025 |  ![](https://img.shields.io/badge/Completed-darkgreen) |
-| Review of Presentation Slides/Report | 18 - Jun - 2025 to 04 - Jul - 2025 |  ![](https://img.shields.io/badge/Completed-darkgreen) |
-| Mock Presentation | 28 - Jun - 2025, 06 - Jul - 2025, and 20 - Jul - 2025  |  ![](https://img.shields.io/badge/Completed-darkgreen)  |
-| Final Presentation | 21 - Jul - 2025 |   |
-| GitHub Updates    | 22 - Jul - 2025 to 30 - Jul - 2025 |  |
-| Paper Writing     | 01 - Aug - 2025 to 15 - Sept - 2025 |  |
-| Solution Formulation | 21 - Sept - 2025 | | 
+| Review of Presentation Slides | 18 - Jun - 2025 to 04 - Jul - 2025 |  ![](https://img.shields.io/badge/Completed-darkgreen) |
+| Mock Presentation to Mentor | 28 - Jun - 2025, 08 - Jul - 2025, and 20 - Jul - 2025  |  ![](https://img.shields.io/badge/Completed-darkgreen)  |
+| Final Presentation to Live-in-Labs Team| 29 - Jul - 2025 |   |
+| GitHub Updates    | 29 - Jul - 2025 to 06 - Aug - 2025 |  |
+| Data Analytics    | 29 - Jul - 2025 to 18 - Aug - 2025 |  |
+| Paper Writing (Draft)     | 07 - Aug - 2025 to 10 - Sept - 2025 |  |
+| Paper Writing (Final)     | 10 - Sept - 2025 to 30 - Sept - 2025 |  |
+| Solution Formulation | 24 - Sept - 2025 to Nov - 2025 | | 
 
 ### Acknowledgements
 This study was conducted as part of the **Amrita Live-in-Labs® Academic program**. The authors extend their sincere gratitude to the Amrita Live-in-Labs® Academic program for providing all the necessary support. The authors also express their profound gratitude to **Sri Mata Amritanandamayi Devi**, _Chancellor of Amrita Vishwa Vidyapeetham_, whose inspiration has guided the authors in performing selfless service to society. The authors thank the government officials of the  Ramanathapuram District; Amrita Vidyalayam, Ramanathapuram and all the stakeholders of the Thanichiyam Community for their participation and guidance throughout the study.
