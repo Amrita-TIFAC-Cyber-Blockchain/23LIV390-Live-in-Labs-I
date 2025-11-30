@@ -62,16 +62,17 @@ Live-in-Labs® is a multidisciplinary experiential learning program that breaks 
 
 | Course Start | 20 - May - 2025 | Deadline | 
 |--------------|-----------------|:--------:|
-| Workshop     | 20 - May - 2025 to 31 - May - 2025 |  ![](https://img.shields.io/badge/Completed-darkgreen) | 
-| Village Visit | 03 - Jun - 2025 to 13 - Jun - 2025 |  ![](https://img.shields.io/badge/Completed-darkgreen) |
+| [Workshop](workshop)     | 20 - May - 2025 to 31 - May - 2025 |  ![](https://img.shields.io/badge/Completed-darkgreen) | 
+| [Village Visit](village_visit) | 03 - Jun - 2025 to 13 - Jun - 2025 |  ![](https://img.shields.io/badge/Completed-darkgreen) |
 | Review of Presentation Slides | 18 - Jun - 2025 to 04 - Jul - 2025 |  ![](https://img.shields.io/badge/Completed-darkgreen) |
 | Mock Presentation to Mentor | 28 - Jun - 2025, 08 - Jul - 2025, and 20 - Jul - 2025  |  ![](https://img.shields.io/badge/Completed-darkgreen)  |
-| GitHub Updates    | 27 - Jul - 2025 to 06 - Aug - 2025 |  ![](https://img.shields.io/badge/In_Progress-orange)  |
-| Data Analytics    | 29 - Jul - 2025 to 18 - Aug - 2025 |  ![](https://img.shields.io/badge/In_Progress-orange)  |
-| Final Presentation to Live-in-Labs Team| 08 - Oct - 2025  | ![](https://img.shields.io/badge/Completed-darkgreen)  |
-| Paper Writing (Draft) | 07 - Aug - 2025 to 20 - Sept - 2025 |  |
-| Paper Writing (Final) | 15 - Sept - 2025 to 05 - Oct - 2025 |  |
-| Solution Formulation | 05 - Oct - 2025 to 24 - Dec - 2025 | | 
+| GitHub Updates    | 29 - Jul - 2025 to 08 - Sept - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen) |
+| Paper Writing (Draft)     | 07 - Aug - 2025 to 12 - Sept - 2025 |  ![](https://img.shields.io/badge/Completed-darkgreen) |
+| Final Presentation to Live-in-Labs Team | 08 - Oct - 2025 <br/> ~29 - Jul - 2025~, ~07 - Oct - 2025~ <br/> ~16 - Jul - 2025~,  ~21 - Jul - 2025~  | ![](https://img.shields.io/badge/Completed-darkgreen)  |
+| First Paper Writing (Final)  | 12 - Sept - 2025 to 30 - Nov - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen)  |
+| Data Analytics    | 06 - Sept - 2025 to 31 - Dec - 2025 |  |
+| Second Paper Writing (Final)  | 02 - Dec - 2025 to 31 - Dec - 2025 |  |
+| Solution Formulation | 02 - Dec - 2025 to Feb - 2026 | | 
 
 ### Acknowledgements
 This study was conducted as part of the **Amrita Live-in-Labs® Academic program**. The authors extend their sincere gratitude to the Amrita Live-in-Labs® Academic program for providing all the necessary support. The authors also express their profound gratitude to **Sri Mata Amritanandamayi Devi**, _Chancellor of Amrita Vishwa Vidyapeetham_, whose inspiration has guided the authors in performing selfless service to society. The authors thank the government officials of the  Ramanathapuram District; Amrita Vidyalayam, Ramanathapuram and all the stakeholders of the Thanichiyam Community for their participation and guidance throughout the study.
