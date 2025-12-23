@@ -2,7 +2,7 @@
     <img src="Assets/LiL_Logo.png" alt ="Amrita TIFAC" width="400" />
 </p>
 
-# 23LIV390 - Live-in-Labs® I ![](https://img.shields.io/badge/Live-green)
+# 23LIV390 - Live-in-Labs® I ![](https://img.shields.io/badge/Completed-darkgreen)
 ![](https://img.shields.io/badge/Batch-24Engg-lightgreen) ![](https://img.shields.io/badge/UG-blue) <br/>
 ![](https://img.shields.io/badge/Credits-3-orange) <br/> ![](https://img.shields.io/badge/Students-5-gold) <br/> 
 
