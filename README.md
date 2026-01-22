@@ -32,13 +32,13 @@ Live-in-Labs® is a multidisciplinary experiential learning program that breaks 
 
 ### [Team GraMorph](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Team-GraMorph) Members
 
-|                            Name                            |           Role         |      Dept      |
-|:-----------------------------------------------------------|:----------------------:|:--------------:|
-| [Mr. Sanjay G](https://github.com/sanhub52)                |        SPOC - 1        |      MEE       |
-| [Ms. Sivasankari S](https://github.com/sivasankari0109)    |        SPOC - 2        |      EEE       |
-| [Mr. Garrepalli Varshith](https://github.com/GVR2007)      |        Member          |      CSE       |
-| [Mr. Vignesh V S](https://github.com/Vigneshvs2007)        |        Member          |      ECE       |
-| [Ms. Mithuraa Senthilkumar](https://github.com/mith-sen)   |        Member          |      CSE       |
+|                            Name                            |           Role         |      Dept      |  LiLa-I Grade |
+|:-----------------------------------------------------------|:----------------------:|:--------------:|:-------------:|
+| [Mr. Sanjay G](https://github.com/sanhub52)                |        SPOC (LiLa-I)   |      MEE       |        A+     |
+| [Ms. Sivasankari S](https://github.com/sivasankari0109)    |        SPOC (LiLa-I)   |      EEE       |        A+     |
+| [Mr. Garrepalli Varshith](https://github.com/GVR2007)      |        SPOC (LiLa-II)  |      CSE       |        A      |
+| [Mr. Vignesh V S](https://github.com/Vigneshvs2007)        |        SPOC (LiLa-II)  |      ECE       |        A      |
+| [Ms. Mithuraa Senthilkumar](https://github.com/mith-sen)   |        Member          |      CSE       |        A      |
 
 
 ### Workshop & Village Visit
@@ -71,8 +71,11 @@ Live-in-Labs® is a multidisciplinary experiential learning program that breaks 
 | Final Presentation to Live-in-Labs Team | 08 - Oct - 2025 <br/> ~29 - Jul - 2025~, ~07 - Oct - 2025~ <br/> ~16 - Jul - 2025~,  ~21 - Jul - 2025~  | ![](https://img.shields.io/badge/Completed-darkgreen)  |
 | First Paper Writing (Final)  | 12 - Sept - 2025 to 30 - Nov - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen)  |
 | Data Analytics    | 06 - Sept - 2025 to 31 - Dec - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen)  |
-| First Paper Review  | 22 - Dec - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen)  |
-| Second Paper Writing (Draft)  | 10 - Dec - 2025 to 31 - Dec - 2025 |  |
+| First Paper Review #1 by ASF | 03 - Dec -2025 | ![](https://img.shields.io/badge/Completed-darkgreen)  |
+| First Paper Review #2 by ASF | 21 - Dec - 2025 | ![](https://img.shields.io/badge/Completed-darkgreen)  |
+| First Paper Review #3 by ASF | 12 - Jan - 2026 | ![](https://img.shields.io/badge/Completed-darkgreen)  |
+| Submission to PTP | 31 - Jan - 2026 |  |
+| Submission to Journal | Feb - 2026 |  |
 
 ### Acknowledgements
 This study was conducted as part of the **Amrita Live-in-Labs® Academic program**. The authors extend their sincere gratitude to the Amrita Live-in-Labs® Academic program for providing all the necessary support. The authors also express their profound gratitude to **Sri Mata Amritanandamayi Devi**, _Chancellor of Amrita Vishwa Vidyapeetham_, whose inspiration has guided the authors in performing selfless service to society. The authors thank the government officials of the  Ramanathapuram District; Amrita Vidyalayam, Ramanathapuram and all the stakeholders of the Thanichiyam Community for their participation and guidance throughout the study.
