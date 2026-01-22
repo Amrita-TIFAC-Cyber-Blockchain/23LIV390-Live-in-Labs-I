@@ -36,8 +36,8 @@ Live-in-Labs® is a multidisciplinary experiential learning program that breaks 
 |:-----------------------------------------------------------|:----------------------:|:--------------:|:-------------:|
 | [Mr. Sanjay G](https://github.com/sanhub52)                |        SPOC (LiLa-I)   |      MEE       |        A+     |
 | [Ms. Sivasankari S](https://github.com/sivasankari0109)    |        SPOC (LiLa-I)   |      EEE       |        A+     |
-| [Mr. Garrepalli Varshith](https://github.com/GVR2007)      |        SPOC (LiLa-II)  |      CSE       |        A      |
-| [Mr. Vignesh V S](https://github.com/Vigneshvs2007)        |        SPOC (LiLa-II)  |      ECE       |        A      |
+| [Mr. Garrepalli Varshith](https://github.com/GVR2007)      |        Member          |      CSE       |        A      |
+| [Mr. Vignesh V S](https://github.com/Vigneshvs2007)        |        Member          |      ECE       |        A      |
 | [Ms. Mithuraa Senthilkumar](https://github.com/mith-sen)   |        Member          |      CSE       |        A      |
 
 
